@@ -13,7 +13,7 @@ from pathlib import Path
 
 #Create blank webpage 
 st.set_page_config( 
-        page_icon=":money_with_wings:", 
+        page_icon=":chart_with_upwards_trend:", 
         layout="wide", 
 )    
 
