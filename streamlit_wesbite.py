@@ -20,7 +20,7 @@ st.set_page_config(
 #Hyperlinks     
 st.sidebar.header("Useful Links:") 
 
-cpmi = "https://www.bis.org/cpmi/cross_border.htm" 
+cpmi = "https://www.bis.org/cpmi/cross_border.html" 
 st.sidebar.write("Research" % cpmi) 
 
 fsb = "https://www.fsb.org/work-of-the-fsb/financial-innovation-and-structural-change/cross-border-payments/" 
