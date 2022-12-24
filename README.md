@@ -1,5 +1,5 @@
 # Website
-My website is comprised of <b> 3 sections </b>: research papers, courses, and apps and projects.  
+My website is comprised of <b> 4 sections </b>: research papers, courses, apps and projects, and book reviews.  
 
 Within the <b> research </b>section, you can access various my orginal working and published papers. 
 
