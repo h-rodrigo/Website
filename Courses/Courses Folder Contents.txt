@@ -1,0 +1,19 @@
+List of courses: 
+#############################################################################
+SOFTWARE Courses
+Python 
+MATLAB 
+R 
+JavaScript 
+SQL 
+Git and Github  
+CSS 
+Julia  
+C# 
+Note: Each coding course is accompanied with a project at the end. 
+############################################################################# 
+Economics, Finance, Statistics, Mathematics, and Computer Science Courses
+Market Design
+Econometrics
+Game Theory
+Time Series Analysis 
