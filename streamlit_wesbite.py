@@ -18,17 +18,17 @@ st.set_page_config(
 )    
 
 #Hyperlinks     
-st.sidebar.header("Useful Links:") 
+st.sidebar.header("Sections:") 
 
 cpmi = "https://www.bis.org/cpmi/cross_border.html" 
 st.sidebar.write("Research") 
 
 fsb = "https://www.fsb.org/work-of-the-fsb/financial-innovation-and-structural-change/cross-border-payments/" 
-st.sidebar.write("Courses" % fsb) 
+st.sidebar.write("Courses") 
 
 fsb_targets = "https://www.fsb.org/wp-content/uploads/P131021-2.pdf" 
-st.sidebar.write("Apps and Projects" % fsb_targets) 
+st.sidebar.write("Apps and Projects") 
 
 roadmap_update = "https://www.fsb.org/wp-content/uploads/P101022-1.pdf" 
-st.sidebar.write("Book Reviews" % roadmap_update) 
+st.sidebar.write("Book Reviews") 
 
