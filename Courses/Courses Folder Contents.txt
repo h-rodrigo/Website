@@ -11,9 +11,14 @@ CSS
 Julia  
 C# 
 Note: Each coding course is accompanied with a project at the end. 
+
 ############################################################################# 
 Economics, Finance, Statistics, Mathematics, and Computer Science Courses
-Market Design
+Market design
 Econometrics
-Game Theory
-Time Series Analysis 
+Game theory
+Time series analysis 
+Operations research
+Computer vision 
+Stochastic calculus
+Machine learning 
