@@ -1,5 +1,5 @@
 # Website
-My website is comprised of 3 sections: research papers, courses, and apps and projects.  
+My website is comprised of <b> 3 sections </b>: research papers, courses, and apps and projects.  
 
 Within the research section, you can access various my orginal working and published papers. My current interests lie in financial markets, asset pricing, systemic risk, and market design. 
 
