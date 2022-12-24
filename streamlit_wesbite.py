@@ -27,14 +27,5 @@ def main():
 
     roadmap_update = "https://www.fsb.org/wp-content/uploads/P101022-1.pdf" 
     st.sidebar.write("Book Reviews" % roadmap_update) 
-
-    st.markdown(
-    """
-    <style>
-    span[data-baseweb="tag"] {background-color: #7E7F7A !important;}  
-    span[data-baseweb="tag"]>span{font-size: 13px}  
-    </style>
-    """,
-    unsafe_allow_html=True,) 
     
     main()
