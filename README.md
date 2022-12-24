@@ -1,2 +1,2 @@
 # Website
-Provides links to my research papers, course notes and videos, and other cool things! 
+Welcome to the bankend of my Streamlit wesbite.  
