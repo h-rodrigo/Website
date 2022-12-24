@@ -12,7 +12,12 @@ import plotly.express as px
 from pathlib import Path 
 
 def main(): 
-      
+#Create blank webpage 
+    st.set_page_config( 
+            page_icon=":money_with_wings:", 
+            layout="wide", 
+    )    
+
     #Hyperlinks     
     st.sidebar.header("Useful Links:") 
 
